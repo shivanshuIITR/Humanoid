@@ -49,6 +49,7 @@ Mr. Kalp Garg(Member)<br/>
 Mr. Rohit Agrawal(Member)<br/>
 Mr. Devashish Patil(Member)<br/>
 Mr. Sandy Sandeep(Member)<br/>
+Mr. Shivanshu Raj Shrivastava<br/>
 Mr. Tarun Saxena(Member)<br/>
 Mr. Alok Kumar(Member)<br/>
 Mr. Ravi Yadav Mry(Member)<br/>
