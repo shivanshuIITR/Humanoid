@@ -41,3 +41,21 @@ This method is employed in all 8 motors to get desired gait.
 # Results and Future Scope:
 We are able to achieve different bending of legs autonomously but bot still need development in terms of lifting one leg and further walking. It requires major development in future which includes complete making of upper part of body.
 
+# Team:
+Mr. Manish Goyal(Senior Mentor)<br/>
+Mr. Peyush Jain(Mentor)<br/>
+Mr. Animesh Mishra(Mentor)<br/>
+Mr. Kalp Garg(Member)<br/>
+Mr. Rohit Agrawal(Member)<br/>
+Mr. Devashish Patil(Member)<br/>
+Mr. Sandy Sandeep(Member)<br/>
+Mr. Shivanshu Raj Shrivastava(Member)<br/>
+Mr. Tarun Saxena(Member)<br/>
+Mr. Alok Kumar(Member)<br/>
+Mr. Ravi Yadav Mry(Member)<br/>
+Mr. Anurag Soni(Member)<br/>
+Mr. Abhinav Jain(Member)<br/>
+Mr. Aayush Singh Chauhan(Member)
+
+
+
